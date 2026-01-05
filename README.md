@@ -37,18 +37,19 @@ item details, and persists them into relational tables.
 ---
 
 ## 📂 Project Structure
-azure-document-intelligence-data-extraction/
+Azure-Document-Intelligence-Data-Extraction/
 │
 ├── SourceCode/
-│ └── invoice_extraction.py
+│   └── invoice_extraction.py
 │
 ├── SampleDocuments/
-│ └── sample_invoice.pdf
+│   └── sample_invoice_dummy.pdf
 │
 ├── ExtractedOutput/
-│ └── output.json
+│   └── output_sample.json
 │
 ├── Database/
-│ └── table_scripts.sql
+│   └── table_scripts.sql
 │
 └── README.md
+
